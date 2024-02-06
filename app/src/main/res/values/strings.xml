@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="my_name">Canberra is the capital of Australia</string>
+    <string name="true_btn">TRUE</string>
+    <string name="next_btn"><![CDATA[NEXT >]]></string>
+    <string name="false_btn">FALSE</string>
+    <string name="androidvpn_txt">AndroidVPN</string>
+    <string name="connect_btn">CONNECT</string>
+</resources>
